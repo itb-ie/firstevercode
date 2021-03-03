@@ -1,0 +1,6 @@
+print("hello world")
+print('hello world 2\n')
+print((2+2)*5)
+print("the result of 6x7 is", 6*7, "This was pretty cool")
+print(7/0)
+print("This is the end part")
